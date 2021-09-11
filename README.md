@@ -38,8 +38,7 @@ Report issues to our Discord server: https://discord.gg/DJxBwAX
     * Retrieve all protos found in GC
 * RemoteSpy
     * Log calls of remote objects (RemoteEvent, RemoteFunction, BindableEvent, BindableFunction)
-    * Ignore/Block calls based on parameters passed
-    * Traceback calling function/closure
+    * Ignore/Block calls based on parametersa
 * ClosureSpy
     * Log calls of closures
     * View general information of closures (location, protos, constants, etc.)
